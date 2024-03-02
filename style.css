@@ -1,0 +1,32 @@
+.gradient-custom-3 {
+    background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+}
+
+.card {
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.form-outline input[type=text],
+.form-outline input[type=email],
+.form-outline input[type=password] {
+    border-radius: 10px;
+}
+
+.form-outline label {
+    color: #333;
+}
+
+.btn-success {
+    background-color: #102c1a;
+    border-color: #102c1a;
+}
+
+.btn-success:hover {
+    background-color: #143822;
+    border-color: #143822;
+}
+
+.text-decoration-none {
+    text-decoration: none !important;
+}
